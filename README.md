@@ -14,8 +14,8 @@ Each project focuses on solving a specific problem while improving coding skills
 2. **Temperature Converter**  
    - Converts between Celsius, Fahrenheit, and Kelvin in real-time.  
    - Tech Stack: HTML, CSS, JavaScript
-   - 
- 2. **Age Calculator**  
+     
+3. **Age Calculator**  
    - Find your age as per your year.  
    - Tech Stack: HTML, CSS, JavaScript      
 
