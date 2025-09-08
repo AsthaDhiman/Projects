@@ -19,6 +19,13 @@ Each project focuses on solving a specific problem while improving coding skills
    - Find your age as per your year.  
    - Tech Stack: HTML, CSS, JavaScript      
 
+4. **Weight Converter**
+   - Convert weight from pounds into kilograms
+   - Tech stack: HTML, CSS, JavaScript
+
+5. **Pomodoro Timer**
+   - A 25-minute countdown timer to boost focus and productivity.
+   - Tech stack: HTML, CSS, JavaScript
 ---
 
 ## 🔥 Highlights
