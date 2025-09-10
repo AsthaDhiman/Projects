@@ -30,6 +30,10 @@ Each project focuses on solving a specific problem while improving coding skills
 6. **Stop Watch**
    - A simple stopwatch that lets users start, stop, and reset time with millisecond precision.
    - Tech stack: HTML, CSS, JavaScript
+
+ 7. **Tabs Project**
+    - A simple tab switching project where clicking a tab button shows its related content while hiding others.
+    - Tech stack: HTML, CSS, JavaScript
 ---
 
 ## 🔥 Highlights
