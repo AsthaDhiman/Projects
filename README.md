@@ -26,6 +26,10 @@ Each project focuses on solving a specific problem while improving coding skills
 5. **Pomodoro Timer**
    - A 25-minute countdown timer to boost focus and productivity.
    - Tech stack: HTML, CSS, JavaScript
+  
+6. **Stop Watch**
+   - A simple stopwatch that lets users start, stop, and reset time with millisecond precision.
+   - Tech stack: HTML, CSS, JavaScript
 ---
 
 ## 🔥 Highlights
